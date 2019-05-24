@@ -6,6 +6,7 @@ cc_library(
     srcs = [
     ],
     hdrs = [
+        "amzn1.hpp",
         "json.hpp",
     ],
     includes = ["."],
